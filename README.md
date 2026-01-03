@@ -9,5 +9,8 @@ Install the dotfiles by running:
 
 # 
 ```
-git clone https://github.com/LunarGalaxyX/kde-dotfiles.git    
+git clone https://github.com/LunarGalaxyX/punpun-rice-dotfiles.git
+cd punpun-rice-dotfiles
+chmod +x install.sh
+./install.sh    
 ```
